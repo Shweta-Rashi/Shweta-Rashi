@@ -6,7 +6,10 @@
 - 👯 I’m looking to collaborate on Open Source.
 - 🤔 I’m looking for help with New Technologies.
 - 💬 Ask me about anything prefered!
-- 📫 How to reach me: ...
+- 📫 How to reach me: [LinkedIn-@Shweta Rashi
+](https://linkedin.com/in/shweta-rashi-1815601b5)
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I am dedicated.
+
+
 
