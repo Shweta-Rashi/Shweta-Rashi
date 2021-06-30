@@ -13,8 +13,8 @@
 
 
 ### Working on myself!, I am kinda awesome:
-<img align="left" alt="Shweta Rashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="shweta_rashi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+[<img align="left" alt="Shweta Rashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shweta_rashi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -49,4 +49,4 @@
 
 
 [instagram]: https://www.instagram.com/shweta_rashi/
-[linkedin]: https://www.linkedin.com/in/shweta-rashi-1815601b5/
+[linkedin]: https://linkedin.com/in/shweta-rashi-1815601b5
